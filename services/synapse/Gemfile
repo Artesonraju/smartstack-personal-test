@@ -1,0 +1,2 @@
+source "https://rubygems.org"
+gem 'synapse', :git => 'git://github.com/airbnb/synapse.git'

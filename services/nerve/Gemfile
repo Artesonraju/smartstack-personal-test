@@ -1,0 +1,2 @@
+source "https://rubygems.org"
+gem 'nerve', :git => 'git://github.com/Artesonraju/nerve.git', :branch => 'kafka-watcher'

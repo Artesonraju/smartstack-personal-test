@@ -1,0 +1,4 @@
+---
+BUNDLE_PATH: "/var/lib/gems/2.1.0/"
+BUNDLE_BIN: "/usr/local/bin/"
+BUNDLE_DISABLE_SHARED_GEMS: '1'

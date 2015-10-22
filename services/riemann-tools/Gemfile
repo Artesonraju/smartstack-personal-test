@@ -1,0 +1,2 @@
+source "https://rubygems.org"
+gem 'riemann-tools', :git => 'git://github.com/Artesonraju/riemann-tools.git', :branch => 'multiple-checks'
